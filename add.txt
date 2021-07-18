@@ -1,0 +1,3 @@
+GrayConverterクラスにToGrayScaleメソッドを追加する。
+Add GrayConverter.ToGrayScale().
+Add ToGrayScale() to GrayConverter class.

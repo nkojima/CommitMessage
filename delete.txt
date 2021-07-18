@@ -1,0 +1,14 @@
+不要なファイルを削除する。
+Delete unnecessary files.
+
+削除機能を無効化する。
+Disable delete function.
+
+不要なテストを削除する。
+Remove unnecessary test.
+
+使われていない変数を削除する。
+Remove unused variables.
+
+使われていないデッドコードを削除する。
+Remove dead code.

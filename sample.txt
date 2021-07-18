@@ -1,0 +1,74 @@
+メンバ変数をプライベートにする。
+Make member variables private.
+
+GrayConverterクラスのToGrayScaleメソッドをパブリックにする。
+Make GrayConverter.ToGrayScale() public.
+
+コンストラクタの引数名を変更する。
+Rename constructor parameter.
+
+格子の描画動作を改善する。
+Improve grid drawing behavior.
+
+不要なファイルを削除する。
+Delete unnecessary files.
+
+GrayConverterクラスにToGrayScaleメソッドを追加する。
+Add GrayConverter.ToGrayScale().
+
+GrayConverterクラスにToGrayScaleメソッドを追加する。
+Add ToGrayScale() to GrayConverter class.
+
+ファイル名をping.shからping_checker.shに変更する。
+Rename ping.sh -> ping_checker.sh.
+
+ファイル名をping.shからping_checker.shに変更する。
+Rename ping.sh to ping_checker.sh.
+
+ファイル名をping.shからping_checker.shに変更する。
+ping.sh -> ping_checker.sh.
+
+コメントを修正する。
+Fix comment.
+
+誤字を修正する。
+Fix typos.
+
+テストを修正する。
+Fix a test.
+
+不要なテストを削除。
+Remove unnecessary test.
+
+使われていない変数を削除する。
+Remove unused variables.
+
+使われていないデッドコードを削除する。
+Remove dead code.
+
+readme.txtを更新する。
+Update readme.txt.
+
+Java-VMをJava-12に更新する。
+Update JVM to Java-12.
+
+src/DepatureTime.csをsrc/model以下に移動する。
+Move src/DepatureTime.cs to src/model/DepatureTime.cs.
+
+MainLogic.SortメソッドをDepatureTimeLogicへ移動する。
+Move MainLogic.Sort() to DepatureTimeLogic.
+
+DepatureTimeLogic.Sortメソッドを簡素化（スリム化）する。
+Simplify DepatureTimeLogic.Sort().
+
+itemsをitem IDでソートする。
+Sort items by the item ID.
+
+itemsを価格でソートする。
+Sort items by the price.
+
+パフォーマンス向上のため、Tomcatでコネクションプールを有効化する。
+Enable connection pooling on Tomcat for performance improvement.
+
+削除機能を無効化する。
+Disable delete function.

@@ -1,0 +1,58 @@
+パフォーマンス向上のため、Tomcatでコネクションプールを有効化する。
+Enable connection pooling on Tomcat for performance improvement.
+
+コメントを修正する。
+Fix comment.
+
+テストを修正する。
+Fix a test.
+
+誤字を修正する。
+Fix typos.
+
+グローバルナビゲーションのリンクタグを修正する。
+Fix anchor tag of global navigation.
+
+H1タグ内のリンクタグを修正する。
+Fix anchor tag inside h1 tag.
+
+格子の描画動作を改善する。
+Improve grid drawing behavior.
+
+GrayConverterクラスのToGrayScaleメソッドをパブリックにする。
+Make GrayConverter.ToGrayScale() public.
+
+メンバ変数をプライベートにする。
+Make member variables private.
+
+MainLogic.SortメソッドをDepatureTimeLogicへ移動する。
+Move MainLogic.Sort() to DepatureTimeLogic.
+
+src/DepatureTime.csをsrc/model以下に移動する。
+Move src/DepatureTime.cs to src/model/DepatureTime.cs.
+
+コンストラクタの引数名を変更する。
+Rename constructor parameter.
+
+ファイル名をping.shからping_checker.shに変更する。
+Rename ping.sh -> ping_checker.sh.
+Rename ping.sh to ping_checker.sh.
+ping.sh -> ping_checker.sh.
+
+DepatureTimeLogic.Sortメソッドを簡素化（スリム化）する。
+Simplify DepatureTimeLogic.Sort().
+
+itemsをitem IDでソートする。
+Sort items by the item ID.
+
+itemsを価格でソートする。
+Sort items by the price.
+
+Java-VMをJava-12に更新する。
+Update JVM to Java-12.
+
+readme.txtを更新する。
+Update readme.txt.
+
+HTMLの読み込みを簡素化する。
+Simplify html loading.
