@@ -1,10 +1,13 @@
+著作権の年号を2021年に修正する。
+Change copyright to 2021.
+
+ドキュメント内の-sオプションの使用法を変更する。
+Change -s option usage in docs.
+
 パフォーマンス向上のため、Tomcatでコネクションプールを有効化する。
 Enable connection pooling on Tomcat for performance improvement.
 
-コメントを修正する。
-Fix comment.
-
-テストを修正する。
+テストを修正する。（※Fixはバグ修正とtypoに使う）
 Fix a test.
 
 誤字を修正する。
@@ -18,6 +21,9 @@ Fix anchor tag inside h1 tag.
 
 格子の描画動作を改善する。
 Improve grid drawing behavior.
+
+トランザクション処理をより高速化する。
+Make it faster to process transactions.
 
 GrayConverterクラスのToGrayScaleメソッドをパブリックにする。
 Make GrayConverter.ToGrayScale() public.
@@ -42,17 +48,23 @@ ping.sh -> ping_checker.sh.
 DepatureTimeLogic.Sortメソッドを簡素化（スリム化）する。
 Simplify DepatureTimeLogic.Sort().
 
+HTMLの読み込みを簡素化する。
+Simplify html loading.
+
 itemsをitem IDでソートする。
 Sort items by the item ID.
 
 itemsを価格でソートする。
 Sort items by the price.
 
-Java-VMをJava-12に更新する。
+Java-VMをJava-12に更新する。（※Updateはバグ以外の修正）
 Update JVM to Java-12.
 
 readme.txtを更新する。
 Update readme.txt.
 
-HTMLの読み込みを簡素化する。
-Simplify html loading.
+コメントを修正する。
+Update comment.
+
+Commons DBCPの代わりにTomcat DBCPを用いる。
+Use Tomcat DBCP instead of Commons DBCP.
