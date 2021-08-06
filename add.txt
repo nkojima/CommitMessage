@@ -3,4 +3,7 @@ Add GrayConverter.ToGrayScale().
 Add ToGrayScale() to GrayConverter class.
 
 Nullチェックを追加する。
-Add null check
+Add null check.
+
+全てのページにフッターを追加する。
+Add the footer to all the pages.
