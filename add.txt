@@ -1,3 +1,6 @@
+imgタグにalt属性を追加する。
+Add alt property in img tag.
+
 GrayConverterクラスにToGrayScaleメソッドを追加する。
 Add GrayConverter.ToGrayScale().
 Add ToGrayScale() to GrayConverter class.
