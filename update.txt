@@ -52,6 +52,9 @@ Make GrayConverter.ToGrayScale() public.
 メンバ変数をプライベートにする。
 Make member variables private.
 
+画像ファイルをimgフォルダに移動する。
+Move image files to img folder.
+
 MainLogic.SortメソッドをDepatureTimeLogicへ移動する。
 Move MainLogic.Sort() to DepatureTimeLogic.
 
