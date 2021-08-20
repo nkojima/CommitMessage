@@ -4,6 +4,9 @@ Change copyright to 2021.
 ドキュメント内の-sオプションの使用法を変更する。
 Change -s option usage in docs.
 
+プライベートのメンバ変数を、get-onlyプロパティに変更する。
+Change private member variables to get-only property.
+
 ページのタイトルを変更する。
 Change the title of the page.
 
