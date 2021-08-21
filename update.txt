@@ -1,14 +1,17 @@
 著作権の年号を2021年に修正する。
 Change copyright to 2021.
 
-ドキュメント内の-sオプションの使用法を変更する。
-Change -s option usage in docs.
+テーブルセル内のフォントサイズを変更する。
+Change font size within table cells.
 
 プライベートのメンバ変数を、get-onlyプロパティに変更する。
 Change private member variables to get-only property.
 
 ページのタイトルを変更する。
 Change the title of the page.
+
+ドキュメント内の-sオプションの使用法を変更する。
+Change -s option usage in docs.
 
 ヘッダーの色を暗くする。
 Darken the header colours.
@@ -63,6 +66,9 @@ Move MainLogic.Sort() to DepatureTimeLogic.
 
 src/DepatureTime.csをsrc/model以下に移動する。
 Move src/DepatureTime.cs to src/model/DepatureTime.cs.
+
+（テーブル中の）列ヘッダーの名称を変更する。
+Rename column header.
 
 コンストラクタの引数名を変更する。
 Rename constructor parameter.
