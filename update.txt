@@ -49,6 +49,9 @@ Increase left padding between textbox and layout frame.
 ヘッダーの色を明るくする。
 Lighten the header colours.
 
+analysis.htmlをスマホ対応にする。
+Make analysis.html mobile friendly.
+
 トランザクション処理をより高速化する。
 Make it faster to process transactions.
 
