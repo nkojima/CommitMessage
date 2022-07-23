@@ -37,11 +37,14 @@ Fix html file paths.
 誤字を修正する。
 Fix typos.
 
+ブラウザのサポートを改善する。
+Improve browser support.
+
 格子の描画動作を改善する。
 Improve grid drawing behavior.
 
-ブラウザのサポートを改善する。
-Improve browser support.
+テーブルタグを用いたページデザインの改善。
+Improve page design using table tag.
 
 テキストボックスとレイアウトフレームの間の左パディングを増やす。
 Increase left padding between textbox and layout frame.
